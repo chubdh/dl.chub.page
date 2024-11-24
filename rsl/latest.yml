@@ -1,0 +1,8 @@
+version: 3.4.5
+files:
+  - url: setup.exe
+    sha512: AkEgKWPN1hZYt5zCvQuat+tfE4tIYByVQKLblPeb58Sctwqs4U5GRqUMaEqQ4VpgM7T1sIkNcaIrBLHDI7wMew==
+    size: 84554304
+path: setup.exe
+sha512: AkEgKWPN1hZYt5zCvQuat+tfE4tIYByVQKLblPeb58Sctwqs4U5GRqUMaEqQ4VpgM7T1sIkNcaIrBLHDI7wMew==
+releaseDate: '2024-11-24T17:16:27.763Z'
